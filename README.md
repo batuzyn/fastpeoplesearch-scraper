@@ -1,12 +1,18 @@
 # FastPeopleSearch Scraper - Professional C# Contact Extraction Tool | Phone Number to Network Mapping
 
-![FastPeopleSearch Scraper Banner](images/banner_scrapedo.gif)
+![FastPeopleSearch Scraper Banner](@banner_scrapedo.gif)
 
 ---
 
 **🔍 Professional Contact Discovery & Lead Generation Tool** | Extract comprehensive contact networks from phone numbers using advanced C# scraping technology with FastPeopleSearch.com integration and Scrape.do proxy services.
 
 **Keywords:** C# scraper, phone number lookup, contact extraction, lead generation, data mining, FastPeopleSearch automation, contact discovery, network mapping, Excel export, CRM integration
+
+---
+
+## 🌍 Language / 语言
+
+**English** | [**中文 (Chinese)**](README_CN.md)
 
 ---
 
