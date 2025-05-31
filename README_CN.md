@@ -1,8 +1,6 @@
 # FastPeopleSearch 爬虫工具 - C# 项目
 
-<div align="center">
-  <img src="images/banner.png" alt="FastPeopleSearch Scraper Banner" width="800"/>
-</div>
+![FastPeopleSearch Scraper Banner](images/banner.png)
 
 ---
 
