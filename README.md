@@ -1,6 +1,6 @@
 # FastPeopleSearch Scraper - Professional C# Contact Extraction Tool | Phone Number to Network Mapping
 
-![FastPeopleSearch Scraper Banner](@banner_scrapedo.gif)
+![FastPeopleSearch Scraper Banner](/images/banner_scrapedo.gif)
 
 ---
 
