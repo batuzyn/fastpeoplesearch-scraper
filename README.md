@@ -295,7 +295,7 @@ Stage 3 completed - Processed 79 relatives
 ## 🚀 Performance Recommendations
 
 ### Recommended Settings
-- **Concurrent Requests**: 50 for optimal balance
+- **Concurrent Requests**: 50 for optimal performance
 - **Delay**: 1000ms+ to prevent rate limiting
 - **High Performance**: 100+ concurrent requests for 2-3 requests per second
 
