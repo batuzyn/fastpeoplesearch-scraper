@@ -1,6 +1,6 @@
 # FastPeopleSearch 爬虫工具 - 专业C#联系人提取工具 | 电话号码网络映射系统
 
-![FastPeopleSearch Scraper Banner](@banner_scrapedo.gif)
+![FastPeopleSearch Scraper Banner](images/banner_scrapedo.gif)
 
 ---
 
