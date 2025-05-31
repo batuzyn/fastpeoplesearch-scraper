@@ -1,6 +1,12 @@
 # FastPeopleSearch Scraper - C# Project
 
-A comprehensive C# application that extracts phone number-based contact information from FastPeopleSearch.com and builds relative networks. Professional-grade data extraction with Scrape.do API integration.
+<div align="center">
+  <img src="images/banner.png" alt="FastPeopleSearch Scraper Banner" width="800"/>
+</div>
+
+---
+
+A comprehensive C# application that extracts phone number-based contact information from FastPeopleSearch.com and builds relational networks. Professional-grade data extraction with Scrape.do API integration.
 
 ## 🚀 Features
 

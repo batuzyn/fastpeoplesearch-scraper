@@ -1,5 +1,11 @@
 # FastPeopleSearch 爬虫工具 - C# 项目
 
+<div align="center">
+  <img src="images/banner.png" alt="FastPeopleSearch Scraper Banner" width="800"/>
+</div>
+
+---
+
 一个全面的 C# 应用程序，从 FastPeopleSearch.com 提取基于电话号码的联系信息并构建亲属网络。通过 Scrape.do API 集成实现专业级数据提取。
 
 ## 🚀 功能特性
