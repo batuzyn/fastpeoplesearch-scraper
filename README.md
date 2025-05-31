@@ -1,6 +1,6 @@
 # FastPeopleSearch Scraper - C# Project
 
-![FastPeopleSearch Scraper Banner](images/banner.png)
+![FastPeopleSearch Scraper Banner](@banner_scrapedo.gif)
 
 ---
 

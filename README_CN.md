@@ -1,6 +1,6 @@
 # FastPeopleSearch 爬虫工具 - C# 项目
 
-![FastPeopleSearch Scraper Banner](images/banner.png)
+![FastPeopleSearch Scraper Banner](@banner_scrapedo.gif)
 
 ---
 
