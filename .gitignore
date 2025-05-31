@@ -1,0 +1,56 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Build outputs
+*.dll
+*.exe
+*.pdb
+
+# Exception: Allow run/ directory binaries for distribution
+!run/*.exe
+!run/FastPeopleSearchScraper-*
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Output files (results) - ignore content but keep folder structure
+result/*.csv
+result_*/
+output/*.csv
+
+# Sensitive data
+appsettings.Development.json
+appsettings.Production.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*~ 
