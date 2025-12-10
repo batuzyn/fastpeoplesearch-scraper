@@ -1,3 +1,5 @@
+Are you a Python dev? Check out this [fastpeoplesearch.com scraping guide](https://scrape.do/blog/fast-people-search-scraping/) instead.
+
 # FastPeopleSearch Scraper - Professional C# Contact Extraction Tool | Phone Number to Network Mapping
 
 ![FastPeopleSearch Scraper Banner](/images/banner_scrapedo.gif)
